@@ -1,5 +1,5 @@
 # HCI
 HCI seminar
 
-/first_component
+npm install
 npm run dev-server
