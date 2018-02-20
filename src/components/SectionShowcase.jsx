@@ -8,7 +8,7 @@ class SectionShowcase extends React.Component{
         return(
 
             <section id="showcase">
-        <div className="container">
+        <div className="container-showcase">
             <h1>Get motivation!</h1>
             <p>Your small site for dropping new thing that pop in your head. Be creative and share (:</p>
         </div>
